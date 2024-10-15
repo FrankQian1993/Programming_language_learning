@@ -5,4 +5,5 @@ int main(){
   // printf("My age is 20\n");
   // printf("Gender: Male\n");
   printf("Frank Qian\nMy age is 20\nGender: Male\n");
+  return 0;
 }
